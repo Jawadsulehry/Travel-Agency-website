@@ -57,8 +57,8 @@ After extracting the ZIP file, you will see:
 ## 👤 Author
 
 **Jawad Ahmad**  
-📧 Email: [jawadsulehry2025@gmail.com](mailto:jawadsulehry2025@gmail.com)  
-🔗 GitHub: [@jawad-ahmad](https://github.com/jawad-ahmad) *(replace with your real GitHub username)*
+📧 Email/🔗 GitHub: [jawadsulehry2025@gmail.com](mailto:jawadsulehry2025@gmail.com)  
+
 
 ---
 
